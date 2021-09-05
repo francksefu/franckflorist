@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1630825188 source:c:\users\franc\onedrive\documents\c,c++\tpfranck\typecom.cpp
+	<iostream>
+
+1630772379 source:c:\users\franc\onedrive\documents\c,c++\tpfranck\main.cpp
+	<iostream>
+	"typecom.cpp"
+
+1630772030 c:\users\franc\onedrive\documents\c,c++\tpfranck\typecom.cpp
+	<iostream>
+
+1630825188 source:c:\users\franc\onedrive\documents\c,c++\kalunga sefu franck\typecom.cpp
+	<iostream>
+
+1630834737 source:c:\users\franc\onedrive\documents\c,c++\kalunga sefu franck\main.cpp
+	<iostream>
+	"typecom.cpp"
+
+1630825188 c:\users\franc\onedrive\documents\c,c++\kalunga sefu franck\typecom.cpp
+	<iostream>
+
